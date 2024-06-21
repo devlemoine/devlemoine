@@ -4,7 +4,7 @@
 <h2>About me:<h2>
   
 - 🌱 I’m currently learning **Kotlin**.
-- 📅 Seventeen years old
+- 👨🏻‍💻 I'm a mobile developer.
 - 📫 How to reach me **devsantoslm@gmail.com or @devlemoine on instagram**
 - 🤖 Fun fact: **I love robotics.**
    
@@ -17,6 +17,6 @@
 </div>
 <h2>Stats:<h2>
 <div align="left">
-  <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBinhara&layout=compact&theme=dracula"/>
-  <img width="450em" alt="Status Github Binhara" src="https://github-readme-stats.vercel.app/api?username=AdrianoBinhara&show_icons=true&theme=dracula" />
+  <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlemoine&layout=compact&theme=dracula"/>
+  <img width="450em" alt="Status Github Binhara" src="https://github-readme-stats.vercel.app/api?username=devlemoine&show_icons=true&theme=dracula" />
 </div>
