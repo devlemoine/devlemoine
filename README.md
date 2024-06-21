@@ -15,8 +15,9 @@
   <a href="https://www.linkedin.com/in/wanderson-lemoine-b5a0a52b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
   target="_blank"></a> 
 </div>
+
 <h2>Stats:<h2>
 <div align="left">
-  <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlemoine&layout=compact&theme=dracula"/>
   <img width="450em" alt="Status Github Binhara" src="https://github-readme-stats.vercel.app/api?username=devlemoine&show_icons=true&theme=dracula" />
+  <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlemoine&layout=compact&theme=dracula"/>
 </div>
