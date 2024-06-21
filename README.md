@@ -1,16 +1,16 @@
-## Hi there 👋
+ 
+<h1 align="center">Hi, i'm Wanderson - aka Lemoine 👽</h1>
+<h3 align="center">I'm a mobile developer.</h3>
 
-<!--
-**devlemoine/devlemoine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://instagram.com/devlemoine" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/devlemoine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<div align="center">
+<img width="450em" alt="Status Github" src="https://github-readme-stats.vercel.app/api?username=devlemoine&show_icons=true&theme=dracula" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlemoine&layout=compact&theme=dracula"/>
+</div>
