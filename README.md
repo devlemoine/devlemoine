@@ -1,7 +1,7 @@
 <h1 align="left">Hi, i'm Wanderson - aka Lemoine 👽</h1>
 
 
-<h2>About me:<h2>
+<h2>About me:</h2>
   
 - 🌱 I’m currently learning **Kotlin**.
 - 👨 Seventeen years old
