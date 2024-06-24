@@ -17,6 +17,6 @@
 
 <h2>Stats:<h2>
 <div align="left">
-  <img width="450em" alt="Status Github Binhara" src="https://github-readme-stats.vercel.app/api?username=devlemoine&show_icons=true&theme=dracula" />
+  <img width="450em" alt="Status Github devlemoine" src="https://github-readme-stats.vercel.app/api?username=devlemoine&show_icons=true&theme=dracula" />
   <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlemoine&layout=compact&theme=dracula"/>
 </div>
