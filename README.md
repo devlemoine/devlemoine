@@ -3,7 +3,7 @@
 
 <h2>About me:</h2>
   
-- 🌱 I’m currently learning **Kotlin**.
+- 🌱 I’m currently learning **Kotlin and C#**.
 - 👨 Seventeen years old
 - 📫 How to reach me **devsantoslm@gmail.com or @devlemoine on instagram**
 - 🤖 Fun fact: **I love robotics.**
